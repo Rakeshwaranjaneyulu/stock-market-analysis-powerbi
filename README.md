@@ -84,4 +84,4 @@ This project uses Power BI and Python to perform ETL (Extract, Transform, Load) 
 ---
 
 ## 🙌 Credits
-Created by Rakesh Waranjaneyulu using real-time stock data.
+Created by Rakeshwaranjaneyulu Chitrala using real-time stock data.
