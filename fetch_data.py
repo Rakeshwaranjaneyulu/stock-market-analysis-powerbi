@@ -18,4 +18,4 @@ for ticker in tickers:
     df['Ticker'] = ticker
     df.to_csv(f'output/{ticker}_stock_data.csv', index=False)
 
-print("✅ All stock data saved to /output folder!")
+print(" All stock data saved to /output folder!")
